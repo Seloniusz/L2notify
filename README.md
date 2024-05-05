@@ -1,5 +1,6 @@
 # L2notify
 Simple script that OCR L2 window and sends notification via telegram if found given text.
+It only works when the L2 window is active and the monitor is turned on.
 
 # Requirements to run this script:
 1. Python 3: https://www.python.org/ - make sure to instal pip package manager and and PATH variable.
