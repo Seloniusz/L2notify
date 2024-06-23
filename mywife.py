@@ -34,6 +34,8 @@ cooldown_duration = 30  # 30 seconds
 # Initialize last_notification_time
 last_notification_time = 0
 
+# Readyness
+logger.info(f" Up and running!")
 
 # Continuously check for the appearance of "To Village" window
 async def main():
